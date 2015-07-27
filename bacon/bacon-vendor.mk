@@ -16,4 +16,4 @@
 
 # Pick up overlay for features that depend on non-open-source files
 
-$(call inherit-product, vendor/oneplus/bacon/bacon-vendor-blobs.mk)
+$(call inherit-product, vendor/oneplus-caf/bacon/bacon-vendor-blobs.mk)
